@@ -1,6 +1,5 @@
 #include "sort/heap_sort.h"
 #include "sort/quick_sort.h"
-#include "sort/test.h"
 
 template<typename T>
 void printString(T head) {
